@@ -2,8 +2,8 @@
 
 <hr/>
 
-- 🌱 I’m useing vue, solidjs, a little rust
-- 🔭 I’m learning react, rust
+- 🌱 I’m useing vue, a few rust
+- 🔭 I’m learning angular, react
 
 ### Languages and Tools
 
