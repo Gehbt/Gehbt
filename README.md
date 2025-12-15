@@ -32,9 +32,9 @@ hello! ![Visitor](https://profile-counter.glitch.me/Gehbt/count.svg)<strong>th V
 
 [![wakatime](https://wakatime.com/badge/user/31883033-3543-41e8-93aa-90be3546f88e.svg)](https://wakatime.com/@31883033-3543-41e8-93aa-90be3546f88e)
 
-\#\#\# TODOLIST?
-<ul>
+
+<!-- <ul>
   <li>HMR runtime</li>
   <li>comment-control-directive</li>
   <li>interhost launch-editor</li>
-</ul>
+</ul> -->
